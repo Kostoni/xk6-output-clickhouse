@@ -1,4 +1,4 @@
-module github.com/Maksimall89/xk6-output-clickhouse
+module github.com/Kostoni/xk6-output-clickhouse
 
 go 1.19
 
